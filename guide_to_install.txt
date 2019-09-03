@@ -1,0 +1,27 @@
+This the the guidance page to run the project
+First of all you have to install following python libraries
+
+1. CSV library 
+  cmd - pip install python-csv
+  This library is used for data handling
+  
+2. pyttsx3 library
+  cmd - pip install pyttsx3
+  This library is used for text to speech conversion
+ 
+3. azure.cognitiveservices.speech library
+   cmd - pip install azure-cognitiveservices-speech
+   This library is used for listen the speech and convert to text 
+  
+4. pandas library
+   cmd - pip install pandas
+   This library is used to good representation of user's data
+   
+5. smtplib library
+   cmd - pip install secure-smtplib 
+   This library is used to make a connection to smtp gmail server and send the email
+ 
+ 
+ Note:
+     After installing all these modules try to listen the command after which you will give input to the system.
+  
